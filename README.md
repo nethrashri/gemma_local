@@ -1,11 +1,5 @@
 # gemma_local
 
-
-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
-
-
-
-
 torch>=2.0.0 - PyTorch for model execution
 transformers>=4.30.0 - Hugging Face transformers library
 sentence-transformers>=2.2.0 - For text embeddings
